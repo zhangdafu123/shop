@@ -52,7 +52,7 @@
   	
  
 	
-	<!-- 全局异常处理器
+	 <!-- 全局异常处理器
 		只要实现HandlerExceptionResolver接口就是全局异常处理器
 	 -->
 	<bean class="srm.exception.CustomExceptionResolver"></bean>
